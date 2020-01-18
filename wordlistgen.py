@@ -84,7 +84,7 @@ def about():
        slowprint ("\033[1;91m -----------------------------------------------")
        slowprint ("\033[1;33m" + "         [+] Tool Name     =>\033[1;36m" + " WordlistGen")
        slowprint ("\033[1;33m" + "         [+] Autor         =>\033[1;36m" + "TheCyberKiddie")
-       slowprint ("\033[1;33m" + "         [+] Latest Update =>\033[1;36m" + " 01/12/2019")
+       slowprint ("\033[1;33m" + "         [+] Latest Update =>\033[1;36m" + " 18/1/2020")
        slowprint ("\033[1;33m" + "         [+] YouTube       =>\033[1;36m" + " TheCyberKiddie")
        slowprint ("\033[1;33m" + "         [+] Github        =>\033[1;36m" + " prahlad01")
        slowprint ("\033[1;91m -----------------------------------------------")
