@@ -118,7 +118,7 @@ def main():
       option = input("\033[1;36m    [ ++ ] WordList Generator [ ++ ] >> \033[1;32m")
       if option == "1":
           os.system("clear")
-          wordgen()
+          wordlistgen()
           exit()
 
       elif option == "2":
