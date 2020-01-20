@@ -3,7 +3,7 @@ What is Wordlistgen ?
 Word list Gen is a wordlist generator tool to do bruteforce attack. It's a simple python script to generate wordlist by typing few words.
 
 
-Word Gen Avilable For
+Word list Gen Avilable For
 Termux
 Kali Linux
 Installation in Termux and Usage
@@ -11,7 +11,7 @@ Download Termux app from google play store and type following commands
 
 apt update && apt upgrade -y
 apt install git -y
-git clone https://github.com/vpphacker/wordgen.git
+git clone https://github.com/prahlad01/wordlistgen 
 cd wordgen
 sh install.sh
 python3 wordgen.py
