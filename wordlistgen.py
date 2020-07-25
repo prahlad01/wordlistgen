@@ -39,12 +39,12 @@ def wordlistgen():
            slowprint ("\033[1;36m =================================================")
            slowprint("\033[1;33m|          Write Your Words and then for          |")
            slowprint ("\033[1;36m =================================================")
-           slowprint ("\033[1;33m|         Finishing Enter \033[1;32m#TheCyberKiddie\033[1;33m              |")
+           slowprint ("\033[1;33m|        Finishing Enter \033[1;32m#kiddie\033[1;33m |")
            slowprint ("\033[1;36m =================================================")
            print("\033[1;32m  ")
            while 1:
                inp = input()
-               if inp.__eq__("#TheCyberKiddie"):
+               if inp.__eq__("#kiddie"):
                    break
                else:
                    input_words.append(inp)
@@ -83,12 +83,12 @@ def about():
        time.sleep(2)
        slowprint ("\033[1;91m -----------------------------------------------")
        slowprint ("\033[1;33m" + "         [+] Tool Name     =>\033[1;36m" + " WordlistGen")
-       slowprint ("\033[1;33m" + "         [+] Autor         =>\033[1;36m" + "TheCyberKiddie")
+       slowprint ("\033[1;33m" + "         [+] Autor         =>\033[1;36m" + "Prahlad Shukla")
        slowprint ("\033[1;33m" + "         [+] Latest Update =>\033[1;36m" + " 18/1/2020")
        slowprint ("\033[1;33m" + "         [+] YouTube       =>\033[1;36m" + " TheCyberKiddie")
        slowprint ("\033[1;33m" + "         [+] Github        =>\033[1;36m" + " prahlad01")
        slowprint ("\033[1;91m -----------------------------------------------")
-       slowprint ("\033[1;95m" + "          [+] https://thecyberkiddie.wordpress.com/[+]          ")
+       slowprint ("\033[1;95m" + "          [+] https://www.thecyberkiddie.wordpress.com/[+]          ")
        slowprint ("\033[1;91m -----------------------------------------------")
        magas = input("\033[1;33m [+] Press Enter To Continue [+]")
        if magas == " ":
